@@ -1,42 +1,17 @@
 [
   {
-    "email": "brk.alessandro@gmail.com",
-    "password": "pass",
-    "id": "c3958586"
-  },
-  {
     "email": "email@email.it",
-    "password": "3355777f49879a13f30d2561c745a8d85e56f22b5d8f4d8bc0f59a6fc2004b5d83a30c95a3c341a10e873a4ef88b06e942b29aced6e80c0d098f6eb093204a01.f95a8dd30ac502b8",
-    "id": "4dd169de"
+    "password": "29fbe7f4413805d5c8bd5d271e1accacc80577749675d47df218c6ef4900f298c5f625a996b9b470704b28fe1bf59b259ae09b2449478c020c509ddf8da2e64e.f477f40f400c38e3",
+    "id": "bc880e23"
   },
   {
-    "email": "email@email.it",
-    "password": "019e6c75ed38fe5eb3ec63e7d5bcb07f53412e84124dc68d2a52685b9c0ddd6da9e95220450317e9a7d1e2593dfbba368495adec63cb790c90e723059ba02540.7ba537ef29264944",
-    "id": "dfd44fc1"
+    "email": "brkalessandro@gmail.com",
+    "password": "9e4796810aea724fd5803141b6958ce3ead5126457eb67486ac36e4a27d5b81f217aaaa8380110227544ea6f570a3065b9538296f35a0c9670e48b3f64e12030.a1356537950c61be",
+    "id": "081d3542"
   },
   {
-    "email": "email@email.it",
-    "password": "3166ea2d8d2e83a8b53548f6e795d8247b7b6e51f521e5629dba60b98ffde0b9916f7856ff312ce096ce430d7d10fae1c5433a0257accec7578e6ba7f63cc7b1.004d3dcb9dbb4dd7",
-    "id": "82106e04"
-  },
-  {
-    "email": "juliakinas@gmail.com",
-    "password": "918c8a8e38fde45c0a067e22099f6a389b152fa6c98684a3ee966573e6c0b279a44c5c6a7d3042ebf7a1a0d9d355a918123b60656cac1d76734f5317d4fae2e4.d540fe2a109678f3",
-    "id": "c3c53a56"
-  },
-  {
-    "email": "@caione",
-    "password": "1acdb04e1517943211b8a83d9750e28f5ad484a6875a5c8a706fddd1d1fae3b986795922a45c352cd56f2d428df225b89694646bd823fdd95cd150734ed2edeb.68dcf7ee93cfe7ce",
-    "id": "0d1b54e2"
-  },
-  {
-    "email": "@caione",
-    "password": "d813af6293caadba6f5f62d55b6e82077a2ebe146bcf18096f21fbedaf57540a401e9fb2d2c2a298d9f090724909c2c155b1b4299c1bdcca6a555cc87200c30f.3af16ae04662f6fa",
-    "id": "19a2a325"
-  },
-  {
-    "email": "@caione",
-    "password": "0a01b157450c855e07dba99af50cf08111c151e31a7527a5c3e90b153d1eacb6c2360224bd85117b16ac5b1bc3c501f42f3be8cdaf0ccd554feda98a8baca741.a8e4f29d0d79471b",
-    "id": "0645104c"
+    "email": "email10@email.it",
+    "password": "82d8a3d1705f72180b822e898f347042fc51b778fdd1c70083fa9270cd21cdb0c952a81c099370029b80b77ecdd0b49aa1a700f9674df9b6343b16921a8efbbe.f6b9b8b668b7a226",
+    "id": "4381347e"
   }
 ]
